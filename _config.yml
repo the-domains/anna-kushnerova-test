@@ -1,0 +1,28 @@
+name: anna kushnerova test
+favicon: null
+layout_spectrum: 0.6406335756182671
+typography_spectrum: 0.6015650986228138
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.3481180020608008
+  lightness: 0.6611658674664795
+  saturation: 0.8706166523043066
+  rhythmicContrast: 0.19849568884819746
+purpose: []
